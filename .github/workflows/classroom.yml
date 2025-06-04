@@ -40,7 +40,7 @@ jobs:
           cd head
           python .tests/grade-assignment.py >> $GITHUB_OUTPUT
       - name: Add a comment to the pull request
-        uses: Geo-Python-2024/create-or-update-comment@v4
+        uses: Geo-Python-2025/create-or-update-comment@v4
         env: ${{ fromJSON(steps.grading.outputs.FEEDBACK) }}
         with:
           
