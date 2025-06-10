@@ -9,8 +9,14 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 - **Exercise 2 is due by the start of the next lesson (9:15 am, 16 September 2024)**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the driver in your pair for this week's exercise.
-- **Please don't change the file name**. Do all of your editing in the provided `Exercise-2.ipynb` file. 
+- **Please don't change the file name**. Do all of your editing in the provided `Exercise-2.ipynb` file.
+- 
+## Automatic feedback
 
+- You will get immediate feedback each time you edit your assignment and push the changes to github.
+- The feedback includes a list of possible improvements and a preliminary grade.
+- The feedback bot cannot grade everything, such as markdown cells, so your assignment will also be checked by a course teacher.
+  
 ## Where to find help
 
 - Review the [materials for Lesson 2](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/overview.html)
